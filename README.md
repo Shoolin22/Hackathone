@@ -14,13 +14,6 @@ This project uses **ESC-50**.
 
 Expected folder structure:
 
-```text
-audio_event_detection_hackathon_fixed/
-├── ESC-50-master/
-│   ├── audio/
-│   └── meta/
-│       └── esc50.csv
-```
 
 ## Tech Stack
 - Python
@@ -108,14 +101,6 @@ streamlit run app.py
 - try CNN or transfer learning later
 - deploy online
 
-## Suggested Git commits
-```bash
-git init
-git add .
-git commit -m "Create project structure"
-git commit -m "Add feature extraction and training code"
-git commit -m "Add prediction script and Streamlit app"
-git commit -m "Add notebook and documentation"
 ```
 
 ## Submission checklist
@@ -123,4 +108,4 @@ git commit -m "Add notebook and documentation"
 - README.md
 - source code
 - Colab notebook link
-- unlisted YouTube demo link
+
